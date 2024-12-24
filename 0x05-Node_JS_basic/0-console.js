@@ -4,10 +4,9 @@
  * @returns {void}
  */
 // Arrow function
-function displayMessage(message)
-    {
-        console.log(message);
-    }
+function displayMessage(message) {
+  console.log(message);
+}
 
 /**
  * Exports the displayMessage function.
